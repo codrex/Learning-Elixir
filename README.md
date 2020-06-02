@@ -1,8 +1,6 @@
 # Elixir - Learning Plan
 This plan for learning elixir
 
-**Commitment:** 1hr/day
-
 **Coverage:** Knowledge - Understanding the Elixir language and its eco-system 
 
 **Recommended materials:**
@@ -16,14 +14,14 @@ This plan for learning elixir
 - [ ] Basic operators
 - [ ] Pattern matching
 
-**STEP 2:  _1 Hours_:**
+**STEP 2:  _2 Hours_:**
 - [ ] case, cond, and if
 - [ ] Binaries, strings, and charlists
 - [ ] Keyword lists and maps
 - [ ] Modules and Functions
 - [ ] Recursion
 
-**STEP 3:  _1 Hours_:**
+**STEP 3:  _2 Hours_:**
 - [ ] Enumerables and streams
 - [ ] Processes
 - [ ] IO and the file system
@@ -44,14 +42,14 @@ This plan for learning elixir
 - [ ]  Where to go next
 
  
-**STEP 6:  _1 Hours_:**
+**STEP 6:  _2 Hours_:**
 - [ ] Introduction to Mix
 - [ ] Agent
 - [ ] GenServer
 - [ ] Supervisor and Application
 - [ ] Dynamic supervisors
 
-**STEP 7:  _1 Hours_:**
+**STEP 7:  _2 Hours_:**
 - [ ] ETS
 - [ ] Dependencies and umbrella projects
 - [ ] Task and gen_tcp
@@ -59,7 +57,7 @@ This plan for learning elixir
 - [ ] Distributed tasks and tags
 - [ ] Configuration and releases
 
-**STEP 8:  _1 Hours_:**
+**STEP 8:  _2 Hours_:**
 - [ ] Quote and unquote
 - [ ] Macros
 - [ ] Domain-specific languages
