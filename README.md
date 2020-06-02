@@ -8,48 +8,48 @@ This plan for learning elixir
 - The Official [Elixir guide](https://elixir-lang.org/getting-started/introduction.html)
 - The Official [Phoenix guide](https://phoenixframework.org/)
 
-**STEP 1:  _1 Hours_:**
+**WEEK 1:  _2 Hours_:**
 - [ ] Introduction
 - [ ] Basic types
 - [ ] Basic operators
 - [ ] Pattern matching
 
-**STEP 2:  _2 Hours_:**
+**WEEK 2:  _2 Hours_:**
 - [ ] case, cond, and if
 - [ ] Binaries, strings, and charlists
 - [ ] Keyword lists and maps
 - [ ] Modules and Functions
 - [ ] Recursion
 
-**STEP 3:  _2 Hours_:**
+**WEEK 3:  _2 Hours_:**
 - [ ] Enumerables and streams
 - [ ] Processes
 - [ ] IO and the file system
 - [ ] alias, require, and import
 - [ ] Module attributes
 
-**STEP 4:  _1 Hours_:**
+**WEEK 4:  _2 Hours_:**
 - [ ] Structs
 - [ ] Protocols
 - [ ] Comprehensions
 - [ ] Sigils
 - [ ] try, catch, and rescue
 
-**STEP 5:  _1 Hours_:**
+**WEEK 5:  _2 Hours_:**
 - [ ]  Typespecs and behaviours
 - [ ]  Debugging
 - [ ]  Erlang libraries
 - [ ]  Where to go next
 
  
-**STEP 6:  _2 Hours_:**
+**WEEK 6:  _2 Hours_:**
 - [ ] Introduction to Mix
 - [ ] Agent
 - [ ] GenServer
 - [ ] Supervisor and Application
 - [ ] Dynamic supervisors
 
-**STEP 7:  _2 Hours_:**
+**WEEK 7:  _2 Hours_:**
 - [ ] ETS
 - [ ] Dependencies and umbrella projects
 - [ ] Task and gen_tcp
@@ -57,7 +57,7 @@ This plan for learning elixir
 - [ ] Distributed tasks and tags
 - [ ] Configuration and releases
 
-**STEP 8:  _2 Hours_:**
+**WEEK 8:  _2 Hours_:**
 - [ ] Quote and unquote
 - [ ] Macros
 - [ ] Domain-specific languages
